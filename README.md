@@ -1,7 +1,8 @@
 # GoldenAirline
 
 # Functional requirements
-      ![Parts](https://github.com/rodaw92/GoldenAirline/blob/master/image.png)
+
+![Parts](https://github.com/rodaw92/GoldenAirline/blob/master/image.png)
 
 
 # Setup
