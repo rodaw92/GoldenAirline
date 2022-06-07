@@ -9,6 +9,9 @@
 
 ![Parts](https://github.com/rodaw92/GoldenAirline/blob/master/GoldenAirline/image.png)
 
+# Choosing a DBMS
+After implementing Golden airline database in two deferent DBMS, I have chosen to continue working on NoSQL DB using MongoDB, it is document oriented, having the capacity to gather all forms of data, including unstructured data "Big Data". It is ideal for Rapid Application Development (Wikipedia, 2021), which is less focused on planning and more on a flexible approach (adaptive process) and also provides a flexible data architecture that allows users to quickly store and mix data of any structure without having to change the schema. 
+
 # Setup
 1.	I used the command "npx create-react-app frontend" in the VS code console to get the react application.
 2.	Use 'npm start' to start the react application.
