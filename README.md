@@ -1,4 +1,9 @@
 # GoldenAirline
+
+# Functional requirements
+      ![Parts](https://github.com/rodaw92/GoldenAirline/blob/master/image.png)
+
+
 # Setup
 1.	I used the command "npx create-react-app frontend" in the VS code console to get the react application.
 2.	Use 'npm start' to start the react application.
