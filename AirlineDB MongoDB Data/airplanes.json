@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "61bbdb9d5f6bb17414c251b4"
+  },
+  "numser": 212133,
+  "model": 44,
+  "manufactorer": "Dill",
+  "rating": 2,
+  "staff": {
+    "$oid": "61bb7178684ab57998b0ab1c"
+  }
+},{
+  "_id": {
+    "$oid": "61bbdbc05f6bb17414c251b5"
+  },
+  "numser": 212144,
+  "model": 55,
+  "manufactorer": "Toshiba",
+  "rating": 1,
+  "staff": {
+    "$oid": "61bb7159684ab57998b0ab1b"
+  }
+},{
+  "_id": {
+    "$oid": "61bbdbda5f6bb17414c251b6"
+  },
+  "numser": 212155,
+  "model": 22,
+  "manufactorer": "Asus",
+  "rating": 3,
+  "staff": {
+    "$oid": "61bb7114684ab57998b0ab1a"
+  }
+},{
+  "_id": {
+    "$oid": "61bbdc045f6bb17414c251b7"
+  },
+  "numser": 212166,
+  "model": 55,
+  "manufactorer": "Dill",
+  "rating": 2,
+  "staff": {
+    "$oid": "61bb6eaaa041f547f0c08711"
+  }
+},{
+  "_id": {
+    "$oid": "61bbdc275f6bb17414c251b8"
+  },
+  "numser": 212177,
+  "model": 44,
+  "manufactorer": "Hen",
+  "rating": 4,
+  "staff": {
+    "$oid": "61b61c9da21cfc5cf48decdf"
+  }
+},{
+  "_id": {
+    "$oid": "61bbdc405f6bb17414c251b9"
+  },
+  "numser": 212188,
+  "model": 33,
+  "manufactorer": "Ghali",
+  "rating": 3,
+  "staff": {
+    "$oid": "61b61c3f3cc1c812d0b81372"
+  }
+},{
+  "_id": {
+    "$oid": "61bbdc955f6bb17414c251bb"
+  },
+  "numser": 212199,
+  "model": 22,
+  "manufactorer": "Toshiba",
+  "rating": 2,
+  "staff": {
+    "$oid": "61b61c0fa66a895a50ca04b1"
+  }
+},{
+  "_id": {
+    "$oid": "61bc52b6bad8a75f50b08d73"
+  },
+  "numser": 2121100,
+  "model": 99,
+  "manufactorer": "Toshiba",
+  "rating": 1,
+  "staff": {
+    "$oid": "61b61c21f56d960c30e240b2"
+  }
+}]

@@ -1,0 +1,278 @@
+[{
+  "_id": {
+    "$oid": "61b3a14fb1d7604a702b0f33"
+  },
+  "isPaid": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "61b3a14fb1d7604a702b0f34"
+      },
+      "flight": {
+        "$oid": "61b37cb7a9b3335fbc7b1cd5"
+      },
+      "image": "/uploads\\1639152808208.jpg",
+      "price": "55",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "61a8f11badfa4e74548589f3"
+  },
+  "shipping": {
+    "address": "Nunnery Court, Nuns St, Derby",
+    "city": "Derby",
+    "postalCode": "DE1 3LQ",
+    "country": "United Kingdom"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 55,
+  "taxPrice": 8.25,
+  "totalPrice": 63.25,
+  "createdAt": {
+    "$date": "2021-12-10T18:49:51.094Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-10T18:50:04.516Z"
+  },
+  "paidAt": {
+    "$date": "2021-12-10T18:50:04.510Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b3b18cbb5379780c2fb599"
+  },
+  "isPaid": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "61b3b18cbb5379780c2fb59a"
+      },
+      "flight": {
+        "$oid": "61b3a144b1d7604a702b0f32"
+      },
+      "image": "/uploads\\1618480246283.jpg",
+      "price": "30",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "61b3b121b1d7604a702b0f3a"
+  },
+  "shipping": {
+    "address": "Nunnery Court, Nuns St, Derby",
+    "city": "Derby",
+    "postalCode": "DE1 3LQ",
+    "country": "United Kingdom"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 30,
+  "taxPrice": 4.5,
+  "totalPrice": 34.5,
+  "createdAt": {
+    "$date": "2021-12-10T19:59:08.126Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-10T19:59:22.215Z"
+  },
+  "paidAt": {
+    "$date": "2021-12-10T19:59:22.211Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b72bdb2eee9e69d0751e7b"
+  },
+  "isPaid": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "61b72bdb2eee9e69d0751e7c"
+      },
+      "flight": {
+        "$oid": "61b3cab7bb5379780c2fb59c"
+      },
+      "image": "/uploads\\1639172819933.jpg",
+      "price": "80",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "61b3b121b1d7604a702b0f3a"
+  },
+  "passengeraddress": [
+    {
+      "_id": {
+        "$oid": "61b72bdb2eee9e69d0751e7d"
+      },
+      "address": "Nunnery Court, Nuns St, Derby",
+      "city": "Derby",
+      "postalCode": "DE1 3LQ",
+      "country": "United Kingdom"
+    }
+  ],
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 80,
+  "taxPrice": 12,
+  "totalPrice": 92,
+  "createdAt": {
+    "$date": "2021-12-13T11:17:47.770Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-13T11:17:47.770Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f02eb416eb47d8f7ae97"
+  },
+  "isPaid": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "61b9f02eb416eb47d8f7ae98"
+      },
+      "flight": {
+        "$oid": "61b3c802bb5379780c2fb59b"
+      },
+      "image": "/uploads\\1639172681426.jpg",
+      "price": "30",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "61b9ef80b416eb47d8f7ae96"
+  },
+  "passengeraddress": [
+    {
+      "_id": {
+        "$oid": "61b9f02eb416eb47d8f7ae99"
+      },
+      "address": "Nunnery Court, Nuns St, Derby",
+      "city": "Derby",
+      "postalCode": "DE1 3LQ",
+      "country": "United Kingdom"
+    }
+  ],
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 30,
+  "taxPrice": 4.5,
+  "totalPrice": 34.5,
+  "createdAt": {
+    "$date": "2021-12-15T13:39:58.574Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T13:39:58.574Z"
+  }
+},{
+  "_id": {
+    "$oid": "61ba6844b416eb47d8f7ae9a"
+  },
+  "isPaid": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "61ba6844b416eb47d8f7ae9b"
+      },
+      "flight": {
+        "$oid": "61b3cab7bb5379780c2fb59c"
+      },
+      "image": "/uploads\\1639172819933.jpg",
+      "price": "80",
+      "qty": 1
+    },
+    {
+      "_id": {
+        "$oid": "61ba6844b416eb47d8f7ae9c"
+      },
+      "flight": {
+        "$oid": "61b3c802bb5379780c2fb59b"
+      },
+      "image": "/uploads\\1639172681426.jpg",
+      "price": "30",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "61b3b121b1d7604a702b0f3a"
+  },
+  "passengeraddress": [
+    {
+      "_id": {
+        "$oid": "61ba6844b416eb47d8f7ae9d"
+      },
+      "address": "Nunnery Court, Nuns St, Derby",
+      "city": "Derby",
+      "postalCode": "DE1 3LQ",
+      "country": "United Kingdom"
+    }
+  ],
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 110,
+  "taxPrice": 16.5,
+  "totalPrice": 126.5,
+  "createdAt": {
+    "$date": "2021-12-15T22:12:20.172Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T22:13:15.567Z"
+  },
+  "paidAt": {
+    "$date": "2021-12-15T22:13:15.566Z"
+  }
+},{
+  "_id": {
+    "$oid": "61bc5259bad8a75f50b08d6f"
+  },
+  "isPaid": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "61bc5259bad8a75f50b08d70"
+      },
+      "flight": {
+        "$oid": "61b3cbddbb5379780c2fb59f"
+      },
+      "image": "/uploads\\1639173069259.jpg",
+      "price": "10",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "61b3b121b1d7604a702b0f3a"
+  },
+  "passengeraddress": [
+    {
+      "_id": {
+        "$oid": "61bc5259bad8a75f50b08d71"
+      },
+      "address": "Darley Bank, 7-11 Brook, 315D",
+      "city": "Derby",
+      "postalCode": "DE1 3PF",
+      "country": "United Kingdom"
+    }
+  ],
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 10,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "createdAt": {
+    "$date": "2021-12-17T09:03:21.974Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-17T09:03:34.947Z"
+  },
+  "paidAt": {
+    "$date": "2021-12-17T09:03:34.941Z"
+  }
+}]

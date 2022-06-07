@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "61b3a52db1d7604a702b0f36"
+  },
+  "isAdmin": false,
+  "name": "ahmad",
+  "email": "med@med.com",
+  "password": "1234",
+  "phone": 7898745778
+},{
+  "_id": {
+    "$oid": "61b3b121b1d7604a702b0f3a"
+  },
+  "isAdmin": true,
+  "name": "Roy",
+  "email": "aws@derby.com",
+  "password": "1234",
+  "phone": 7898469529
+},{
+  "_id": {
+    "$oid": "61b665cec65c527bf8dfe9de"
+  },
+  "isAdmin": false,
+  "name": "ghn",
+  "email": "roy@awss.com",
+  "password": "1234",
+  "phone": 122
+},{
+  "_id": {
+    "$oid": "61b9ef80b416eb47d8f7ae96"
+  },
+  "isAdmin": false,
+  "name": "John",
+  "email": "john@derby.com",
+  "password": "1234",
+  "phone": 7898456214
+},{
+  "_id": {
+    "$oid": "61bc60afbad8a75f50b08d74"
+  },
+  "isAdmin": false,
+  "name": "RAED AWILL",
+  "email": "100470771@unimail.derby.ac.uk",
+  "password": "1234",
+  "phone": 444
+}]
