@@ -31,9 +31,9 @@
 18.	Set a token to check the next request authentication while checking the signin user data. To utilise the token, I used "npm install jsonwebtoken" in the backend folder.
 
 # Build and Run
-  First to run the server ,in the terminal type:
-cd backend
-cd start
-  To run the client, Open new terminal and type:
-cd frontend
-cd start
+1. First to run the server ,in the terminal type:
+- cd backend
+- cd start
+2. To run the client, Open new terminal and type:
+- cd frontend
+- cd start
